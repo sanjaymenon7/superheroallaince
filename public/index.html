@@ -1,0 +1,79 @@
+<!DOCTYPE>
+<html ng-app ="myApp">
+<head>
+<link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap-theme.css">
+<link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="bower_components/vis/dist/vis.css">
+<style type="text/css">
+	#graph{
+		height: 100%;
+		width: 100%;
+		border: 1px solid black;
+		margin 0 auto;
+	}
+	.container{
+		background-color: lightgrey;
+	}
+
+</style>
+	<title>Superhero Alliance</title>
+</head>
+<body ng-controller="AppCtrl">
+	<div class="container">
+		<h1>Super Hero Alliances</h1>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="row">
+					<div class="col-md-3">
+						<input type="text" class="form-control" ng-model="relation.parent">
+					</div>
+					<div class="col-md-3">
+						<select class="form-control" name="singleSelect" ng-model="relation.relation">
+					      <option value="ALLIANCE"> is an Ally to</option>
+					      <option value="ARCHENEMY">is an Enemy to</option>
+					      <option value="NUETRAL">is Neutral to</option>
+					    </select>
+					</div>
+					<div class="col-md-3">
+						<input type="text"  class="form-control" ng-model="relation.child">
+					</div>
+					<div class="col-md-3">
+						<button class="btn btn-sm btn-primary" ng-click="addNewRelation()"=>Add/Update Relations</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--<div class="row">
+			<div class="col-md-12">
+				<table class="table">
+					<thead>
+						<tr>
+							<th>Character One</th>
+							<th>Character Two</th>
+							<th>Relationship</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr ng-repeat="realtion in relationList">
+							<td>{{realtion.parent}}</td>
+							<td>{{realtion.child}}</td>
+							<td>{{realtion.relation}}</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>-->
+		<br><br>
+		<h3>Relations</h3>
+		<div class="row">
+			<div class="col-md-12">
+				<div id="graph">
+				</div>
+			</div>
+		</div>
+	</div>
+<script src="bower_components/angular/angular.js"></script>
+<script src="bower_components/vis/dist/vis.js"></script>
+<script src="controllers/controller.js"></script>
+</body>
+</html>

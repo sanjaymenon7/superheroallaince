@@ -1,0 +1,606 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"rela",
+				"relation"
+			],
+			[
+				"my",
+				"myEdge"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"o",
+				"myObj"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"re",
+				"relationList"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"rea",
+				"relationList"
+			],
+			[
+				"C",
+				"characters"
+			],
+			[
+				"par",
+				"parentCharacter"
+			],
+			[
+				"pa",
+				"parentCharacter"
+			],
+			[
+				"relation",
+				"relationlist"
+			],
+			[
+				"c",
+				"currentRelation"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"ng-c",
+				"ng-click	AngularJS"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"t",
+				"table	Tag"
+			],
+			[
+				"col-",
+				"col-md-12"
+			],
+			[
+				"bo",
+				"bower_components"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"no",
+				"noOfCols"
+			],
+			[
+				"ro",
+				"noOfRows"
+			],
+			[
+				"data",
+				"dataArr"
+			],
+			[
+				"new",
+				"newData"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"me",
+				"media"
+			],
+			[
+				"b",
+				"bower_components"
+			],
+			[
+				"sa",
+				"sampleSize"
+			],
+			[
+				"sam",
+				"numOfSamples"
+			],
+			[
+				"to",
+				"toFixed"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 1671,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 2183,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controllers/controller.js",
+			"settings":
+			{
+				"buffer_size": 2722,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/meanstack/superheroapp/bower.json",
+		"/E/Job Application/NavVis-Contact/javascript/file.csv",
+		"/E/Job Application/NavVis-Contact/javascript/data.csv",
+		"/C/Users/Sanjay/Downloads/paint bucket.js",
+		"/E/Job Application/homify/homify ruby challenge/homify exercises/Exercise3/jschallenge.js",
+		"/E/Dashboard/themeforest-metronic-responsive-admin-dashboard-template/metronic_v4.5.5/theme/admin_1/page_general_portfolio_4.html",
+		"/C/xampp/htdocs/admin_1_angularjs/js/controllers/GeneralPageController.js",
+		"/C/Users/Sanjay/AppData/Roaming/Sublime Text 2/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/C/xampp/htdocs/admin_1_angularjs/tpl/header.html",
+		"/C/xampp/htdocs/admin_1_angularjs/js/controllers/DashboardController.js",
+		"/C/xampp/htdocs/admin_1_angularjs/js/controllers/UISelectController.js",
+		"/C/xampp/htdocs/admin_1_angularjs/js/directives.js",
+		"/E/TUM/Thesis/Network Evaluation Dashboard/Dashboard/Admin/layout_blank_page.html",
+		"/C/Users/Sanjay/WebstormProjects/Recommender/node_modules/watchify/test/zzz.js",
+		"/E/Ecmascript6/browsersystem.js",
+		"/E/Ecmascript6/bootstrap.js",
+		"/E/Ecmascript6/script.js",
+		"/E/Ecmascript6/index.html",
+		"/E/TUM/semester2/IDP/gaussian-distribution After feedback/gaussian-distribution/jquery.min.js",
+		"/E/Ecmascript6/compiler.js",
+		"/E/AngularJS/conFusion/.jshintrc",
+		"/E/AngularJS/conFusion/Gruntfile.js",
+		"/E/AngularJS/conFusion/package.json",
+		"/C/Users/Sanjay/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/E/TUM/SEBA Lab/parallel-coords/parallel-coords/letsee2.html",
+		"/C/Users/Sanjay/Downloads/Main.java",
+		"/E/TUM/SEBA Lab/Parallel Sets/letsee.html",
+		"/C/Users/Sanjay/Desktop/d3.v3.min.js",
+		"/E/TUM/SEBA Lab/BAckup/index.js",
+		"/E/TUM/semester2/Algorithm/Set6/Q6/Main2.java",
+		"/E/MoteRunner/moterunner/examples/temperature/Menon_PT1/Gateway.java",
+		"/E/MoteRunner/moterunner/examples/temperature/Gateway.java",
+		"/E/MoteRunner/moterunner/examples/temperature/TempSensor.java",
+		"/E/TUM/SEBA Lab/react-multiselect-master/react-multiselect-master/example/basic.css",
+		"/E/MoteRunner/moterunner/examples/temperature/Temp.java",
+		"/E/MoteRunner/moterunner/examples/temperature/Node.java",
+		"/E/MoteRunner/moterunner/examples/radio-count/Radiocount.java",
+		"/C/Users/Sanjay/AppData/Local/Temp/tmp9E05.tmp.js",
+		"/C/Users/Sanjay/WebstormProjects/Recommender/data/phoneData.js",
+		"/E/MoteRunner/moterunner/examples/logging/Logging.java",
+		"/E/Nodejs Tutorial/program.js",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/Set3Q4/Main.java",
+		"/C/Users/Sanjay/hello.js",
+		"/E/TUM/IDP/gaussian-distribution After feedback/gaussian-distribution/confidenceinterval.js",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/Set3Q4/Node.java",
+		"/E/TUM/Algorithm/Set4/Q1/MaxFlowPreflowN3-Q1.java",
+		"/C/Users/Sanjay/Downloads/Dijkstra.java",
+		"/E/TUM/Algorithm/Set3/ShivBellFord/ShivBellFord/PartyPlanning.java",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/Set3Q2party/Party.java",
+		"/E/TUM/Algorithm/Set3/ShivBellFord/ShivBellFord/Edge.java",
+		"/E/TUM/Algorithm/Set3/ShivBellFord/ShivBellFord/BellmanFord.java",
+		"/C/Users/Sanjay/Downloads/BellmanFord.java",
+		"/C/Users/Sanjay/AppData/Local/Temp/Rar$DIa0.418/PartyPlanning.java",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/Set3Q2/Node.java",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/Set3Q2/Edge.java",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/Set3Q2/LongestPathinDAG.java",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/Set3Q1/Dijkstra.java",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/Set2/BipartiteBfs.java",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/Set2/PizzaNew.java",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/Set1/Watson.java",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/Set1/Relativity.java",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/Set1/NewChess.java",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/Set1/NewChat.java",
+		"/E/TUM/Algorithm/Set11/Q2/Main2.java",
+		"/E/TUM/IDP/gaussian-distribution After feedback/gaussian-distribution/bargraph.js",
+		"/E/TUM/Algorithm/Set11/Q1/Main (3).java",
+		"/E/TUM/Algorithm/Set11/Q2/Stick.java",
+		"/E/TUM/Algorithm/Set10/Q5/Fractals.java",
+		"/E/TUM/Algorithm/Set10/Q4/FallingWater.java",
+		"/E/TUM/Algorithm/Set10/Q3/Area51.java",
+		"/E/TUM/Algorithm/Set10/Q2/TemplonianExcavation.java",
+		"/E/TUM/Algorithm/Set10/Q1/EularLine.java",
+		"/E/TUM/IDP/gaussian-distribution After feedback/gaussian-distribution/central_limit_theorem.html",
+		"/E/TUM/IDP/gaussian-distribution After feedback/gaussian-distribution/bargraph.html",
+		"/E/TUM/IDP/gaussian-distribution After feedback/gaussian-distribution/clt.js",
+		"/E/TUM/Algorithm/Set9/Q4/FragileLetters.java",
+		"/E/TUM/Algorithm/Set9/Q1/Main (3).java",
+		"/E/TUM/Algorithm/Set9/Q3/BurgersNChips.java",
+		"/E/TUM/Algorithm/Set9/Q1/Node.java",
+		"/E/TUM/Algorithm/Set8/Q5/ChineseRemainder.java",
+		"/E/TUM/Algorithm/Set8/Q5/Main (3).java",
+		"/E/TUM/Algorithm/Set9/Q1/set9q1input.txt",
+		"/E/TUM/Algorithm/Set9/Q2/set9q2input.txt",
+		"/E/TUM/Algorithm/Set8/Q3/set8q3input",
+		"/E/TUM/Algorithm/Set8/Q3/Nathlon.java",
+		"/E/TUM/Algorithm/Set8/Q2/Main (3).java",
+		"/C/Python27/W5.py",
+		"/E/TUM/Algorithm/Set8/Q2/set8q2input",
+		"/E/TUM/Algorithm/Set8/Q4/Cookie.java",
+		"/E/TUM/Algorithm/Set8/Q4/set8q4input",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/Set1/Chat.java",
+		"/E/TUM/Algorithm/Set8/set8q1input.txt",
+		"/E/TUM/Algorithm/Set8/Q4/Main (3).java",
+		"/E/TUM/Algorithm/Set8/Q1/Main (3).java",
+		"/E/TUM/Algorithm/Set8/GoldbachConjecture.java",
+		"/C/Users/Sanjay/Algorithms/Algorithm/src/set4q2/RobberyDinic.java",
+		"/C/Users/Sanjay/Algorithms/Algorithm/src/set4q4/BeerPushAndRelable.java",
+		"/C/Users/Sanjay/Algorithms/Algorithm/src/set4q4beer/Beer.java",
+		"/C/Users/Sanjay/Algorithms/Algorithm/src/set7q3/Vampire.java",
+		"/C/Users/Sanjay/Algorithms/Algorithm/src/set7q4/BoxStack.java",
+		"/C/Users/Sanjay/Algorithms/Algorithm/src/set5q1/PrefixTree.java",
+		"/C/Users/Sanjay/Algorithms/Algorithm/src/set4q4/MainDinic.java",
+		"/C/Users/Sanjay/Algorithms/Algorithm/src/Set3Q3SandL/Dijkstra.java",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/mst/Prims.java",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/BF/BellmanFordAlgorithm.java",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/bellmanford/BellmanFord.java",
+		"/E/TUM/Algorithm/Algorithms/Algorithms/src/Set1/EvaluateDeluxe.java",
+		"/C/Users/Sanjay/Algorithms/Algorithm/src/set7q2/Item.java",
+		"/C/Users/Sanjay/Algorithms/Algorithm/src/set7q2/ItemCollection.java",
+		"/C/Users/Sanjay/Algorithms/Algorithm/src/set7q2/Zombie.java",
+		"/E/TUM/Algorithm/Set7/Q5/EggDrops.java",
+		"/E/TUM/Algorithm/Set7/Q4/set7q4input",
+		"/E/TUM/Algorithm/Set7/Q4/Main (3).java",
+		"/E/TUM/Social Computing/HW4/Ex4.py",
+		"/E/TUM/Algorithm/Set7/Q4/Box.java",
+		"/E/TUM/IDP/gaussian-distribution After feedback/gaussian-distribution/normaldistribution1.js",
+		"/E/TUM/IDP/gaussian-distribution After feedback/gaussian-distribution/qpad_just_normal.html",
+		"/E/TUM/Algorithm/Set7/Q3/Main (3).java",
+		"/E/TUM/Algorithm/Set7/Q3/set7q3input",
+		"/E/TUM/Algorithm/Set7/Q1/set7q1input",
+		"/E/TUM/Algorithm/Set7/Q2/set7q2input",
+		"/C/Users/Sanjay/Downloads/Main (2).java",
+		"/E/TUM/Algorithm/Set7/Q2/Zombie.java",
+		"/C/Users/Sanjay/Downloads/Main (1).java",
+		"/E/TUM/Algorithm/Set6/Q7/set6q7input.txt",
+		"/E/TUM/Algorithm/Set6/Q2/Chapter.java",
+		"/E/TUM/Algorithm/Set6/Q2/Main2.java",
+		"/C/Users/Sanjay/Downloads/MoreDimensions.java"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cube",
+			"cok",
+			"jquery",
+			"jquery.cokie",
+			"jquery.cokie.min.js",
+			"cube",
+			"ng_load_plugins_before",
+			"$ocLazyLoad",
+			"my profile",
+			"ui-sref",
+			"title",
+			"Layout",
+			"HeaderController",
+			"initHeader",
+			"layout",
+			"loyout",
+			"loayout",
+			"ui-router",
+			"member",
+			"ui",
+			"ui-view",
+			"button",
+			"form",
+			"current",
+			"confusionApp",
+			"menuCtrl.",
+			"menuCtrl",
+			"this",
+			"\"",
+			"'",
+			"d3",
+			"input-1",
+			"temperature",
+			"allLedsOff",
+			"updateTemp",
+			"averageTemperature",
+			"turnAllLedsOff",
+			"turnOnLed",
+			"tempUpperLimit",
+			"tempLowerLimit",
+			"sensorData",
+			"Blink",
+			"graph",
+			"verticalHistogram",
+			"weightedAvg",
+			"average",
+			"average\\\\",
+			"]]]",
+			");\n",
+			"graph",
+			"10",
+			"data",
+			"assignBetweennessToNodes",
+			"double",
+			"sense",
+			"jquery",
+			"parseInt",
+			"int",
+			"float",
+			"update",
+			"upper",
+			"lable",
+			"title",
+			"float",
+			"title",
+			"ui",
+			"upper",
+			"calc",
+			"zcalc"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"''",
+			"$scope",
+			"'",
+			"\"",
+			"temp",
+			"ledsOff",
+			"doAction",
+			"avgTemp",
+			"offLED",
+			"onLED",
+			"tempUpper",
+			"tempLower",
+			"nodeData",
+			"Temp"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.js",
+					"settings":
+					{
+						"buffer_size": 1671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1212,
+								1212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/index.html",
+					"settings":
+					{
+						"buffer_size": 2183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1888,
+								1888
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "controllers/controller.js",
+					"settings":
+					{
+						"buffer_size": 2722,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1798,
+								1798
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true
+}

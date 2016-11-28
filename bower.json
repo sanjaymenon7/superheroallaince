@@ -1,0 +1,25 @@
+{
+  "name": "superheroapp",
+  "authors": [
+    "sanjaymenon <sanjayzzzz@gmail.com>"
+  ],
+  "description": "superhero connections",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "vis": "^4.17.0"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
