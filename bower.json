@@ -17,7 +17,8 @@
   ],
   "dependencies": {
     "angular": "^1.5.8",
-    "vis": "^4.17.0"
+    "vis": "^4.17.0",
+    "bootstrap": "^3.3.7"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7"

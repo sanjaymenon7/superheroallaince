@@ -6,7 +6,7 @@
 <link rel="stylesheet" type="text/css" href="bower_components/vis/dist/vis.css">
 <style type="text/css">
 	#graph{
-		height: 100%;
+		height: 100vh;
 		width: 100%;
 		border: 1px solid black;
 		margin 0 auto;
@@ -31,7 +31,7 @@
 						<select class="form-control" name="singleSelect" ng-model="relation.relation">
 					      <option value="ALLIANCE"> is an Ally to</option>
 					      <option value="ARCHENEMY">is an Enemy to</option>
-					      <option value="NUETRAL">is Neutral to</option>
+					      <option value="NEUTRAL">is Neutral to</option>
 					    </select>
 					</div>
 					<div class="col-md-3">
@@ -43,26 +43,6 @@
 				</div>
 			</div>
 		</div>
-		<!--<div class="row">
-			<div class="col-md-12">
-				<table class="table">
-					<thead>
-						<tr>
-							<th>Character One</th>
-							<th>Character Two</th>
-							<th>Relationship</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr ng-repeat="realtion in relationList">
-							<td>{{realtion.parent}}</td>
-							<td>{{realtion.child}}</td>
-							<td>{{realtion.relation}}</td>
-						</tr>
-					</tbody>
-				</table>
-			</div>
-		</div>-->
 		<br><br>
 		<h3>Relations</h3>
 		<div class="row">
