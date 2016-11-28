@@ -29,15 +29,15 @@ There is one db defined as 'relationlist' which holds all the character relation
 
 ##Steps to setup the application.
 
-1.Clone the repository.
-2.Install npm.
-2.Run npm install and bower install.
-3.Install and setup mongoDB server.
-4.Open a command prompt go to the folder which has mongod.exe and run mongod to start the mongoDB server.
-5.Open another command prompt and go to the folder which has mongo.exe and run command mongo and it will be connected test db.
-6.Create a db realtionlist by entering the command 'use relationlist'.
-7.insert one record into it using the command db.relationlist.insert({parent:'superman',child:'batman',relation:'ALLIANCE'})(Optional).
-7.Open third command prompt Go to the porject root folder and run 'node server' and you will see the message 'Server running on port 3000' in the console.
-8.Open a browser and type in localhost:3000
+1. Clone the repository.
+2. Install npm.
+2. Run npm install and bower install.
+3. Install and setup mongoDB server.
+4. Open a command prompt go to the folder which has mongod.exe and run mongod to start the mongoDB server.
+5. Open another command prompt and go to the folder which has mongo.exe and run command mongo and it will be connected test db.
+6. Create a db realtionlist by entering the command 'use relationlist'.
+7. insert one record into it using the command db.relationlist.insert({parent:'superman',child:'batman',relation:'ALLIANCE'})(Optional).
+7. Open third command prompt Go to the porject root folder and run 'node server' and you will see the message 'Server running on port 3000' in the console.
+8. Open a browser and type in localhost:3000
 
 
